@@ -10,7 +10,11 @@
 <platform name="ios">
     <!-- below requires the splash screen plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-splashscreen -->
+<<<<<<< HEAD
     <preference name="AutoHideSplashScreen" value="false" />
+=======
+    <preference name="AutoHideSplashScreen" value="true" />
+>>>>>>> SchlaglochKapu/master
     <preference name="FadeSplashScreen" value="false"/>
     <preference name="FadeSplashScreenDuration" value="2"/>
     <preference name="ShowSplashScreenSpinner" value="false"/>
@@ -34,3 +38,7 @@
 <intelxdk:crosswalk xwalk-command-line="--disable-pull-to-refresh-effect" />
 <!-- ignore gpu blacklist for larger collection of gpu accelerated devices -->
 <intelxdk:crosswalk xwalk-command-line="--ignore-gpu-blacklist" />
+<<<<<<< HEAD
+=======
+// Hallo Marian schaff endlich was du faule Sau!!!
+>>>>>>> SchlaglochKapu/master
