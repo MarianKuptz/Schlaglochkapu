@@ -13,9 +13,10 @@
         /* graphic button  #btnFoto */
     $(document).on("click", "#btnFoto", function(evt)
     {
-        /* your code goes here */
+        alert("test");
     });
 
     }
+
  document.addEventListener("app.Ready", register_event_handlers, false);
 })();
